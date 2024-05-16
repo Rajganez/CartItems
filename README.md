@@ -3,9 +3,12 @@
 *Used CartData.JSON to retreive Products,Images are dummy so used a sample image*
 
 *1. In HomePage, When Buy Item button is Clicked*
+
 *2. useContext Operations done in Individual Item Page*
+
 *3. When Items added stock decreases and price changes*
-*4 .Item Delete button works to decrease the item to 1*
+
+*4 .Item Delete button works to decrease the item to count1*
 
 ***To view visit : https://cartitemusingcontext.netlify.app/ ***
 
